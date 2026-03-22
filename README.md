@@ -4,6 +4,8 @@ AI agent skills are reusable instruction sets that extend your coding assistant 
 
 For generic skills, please visit [cc-skills](https://github.com/samber/cc-skills).
 
+<img width="3456" height="1376" alt="image" src="https://github.com/user-attachments/assets/d46573f0-ba8e-463d-803b-da27af1d81ad" />
+
 ## 🚀 How to use
 
 **Install with [skills](https://skills.sh/) CLI** (universal — works with any [Agent Skills](https://agentskills.io)-compatible tool):
