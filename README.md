@@ -4,7 +4,7 @@ AI agent skills are reusable instruction sets that extend your coding assistant 
 
 For generic skills, please visit [cc-skills](https://github.com/samber/cc-skills).
 
-<img width="3456" height="1376" alt="image" src="https://github.com/user-attachments/assets/d46573f0-ba8e-463d-803b-da27af1d81ad" />
+<img width="1414" height="491" alt="image" src="https://github.com/user-attachments/assets/620b5835-c1ba-4ea9-bf47-2293b58b879e" />
 
 ## 🚀 How to use
 
