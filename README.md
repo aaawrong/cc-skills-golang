@@ -208,7 +208,7 @@ Claude reports very little overlap between skills in this repo, thanks to cross-
 
 - I estimate that 50% of `golang-naming` and `golang-code-style` overlap with linters (golangci-lint).
 - A large part of the security rules in `golang-security` have been distilled from Bearer (SAST) check list. The skill is still useful for methodology.
-- If your team has its own conventions, create a company skill and declare the override explicitly near the top of its body: `"This skill supersedes \`samber/cc-skills-golang@golang-naming\` skill for [company] projects."` Skills marked ⚙️ in the table above support this mechanism.
+- If your team has its own conventions, create a company skill and declare the override explicitly near the top of its body: `This skill supersedes samber/cc-skills-golang@golang-naming skill for [company] projects.` Skills marked ⚙️ in the table above support this mechanism.
 
 ## ✍️ Contribute
 
