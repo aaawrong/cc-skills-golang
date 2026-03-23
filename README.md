@@ -6,7 +6,7 @@ For generic skills, please visit [cc-skills](https://github.com/samber/cc-skills
 
 > [!IMPORTANT]  
 > Bootstrapped with Claude Code by distilling my Go project commits. **Edited, tested, reviewed and reworked by a human**.
-> 
+>
 > **No AI slop here.** AI-made skills are useless.
 
 <img width="1414" height="491" alt="image" src="https://github.com/user-attachments/assets/620b5835-c1ba-4ea9-bf47-2293b58b879e" />
@@ -187,7 +187,7 @@ These skills are designed as **atomic, cross-referencing units**. A skill may re
 | ❌ `golang-uber-fx` |  | — | 0 | 0 | 0 |
 | ✅ `golang-samber-do` |  | -81% | 70 | 1,746 | 3,269 |
 | ✅ `golang-samber-hot` |  | -54% | 118 | 1,843 | 7,273 |
-| ✅ `golang-samber-lo` | 🧠 | -40% | 155 | 2,410 | 10,031 |
+| ✅ `golang-samber-lo` |  | -40% | 155 | 2,410 | 10,031 |
 | ✅ `golang-samber-mo` | 🧠 | -48% | 81 | 2,800 | 11,215 |
 | ✅ `golang-samber-oops` |  | -59% | 69 | 2,380 | 2,692 |
 | ✅ `golang-samber-ro` | 🧠 | -50% | 140 | 2,845 | 11,136 |
